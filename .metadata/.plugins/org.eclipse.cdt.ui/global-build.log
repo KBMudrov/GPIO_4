@@ -60,3 +60,10 @@ arm-none-eabi-size   GPIO_4.elf
    5428	     20	   1580	   7028	   1b74	GPIO_4.elf
 Finished building: default.size.stdout
  
+02:30:11 **** Incremental Build of configuration Debug for project GPIO_4 ****
+make -j2 all 
+arm-none-eabi-size   GPIO_4.elf 
+   text	   data	    bss	    dec	    hex	filename
+   5428	     20	   1580	   7028	   1b74	GPIO_4.elf
+Finished building: default.size.stdout
+ 
